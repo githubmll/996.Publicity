@@ -1,4 +1,4 @@
-# 996.Propagate
+# 996.Publicity
 
 [996.ICU](https://github.com/996icu/996.ICU) 是指“工作 996， 生病 ICU” 。
 
@@ -66,5 +66,5 @@ there was no one left to speak up.
 ## 说明
 
 * 本项目主要收集GitHub与996相关的记录，通过国内各大平台进行传播，旨在让更多的人了解996。
-* 同时希望您进行投稿，我们会以你的名义进行推广。
+* 同时希望您进行投稿，我们会进行推广。
 * 感谢您的分享。
