@@ -6,4 +6,5 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ## 说明
-[Token 996ICU](https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de)
+
+[Token 996ICU](https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de) 996ICU代币，Issues区留下BSC地址进行空投。
