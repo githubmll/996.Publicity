@@ -9,4 +9,4 @@
 
 [Token 996ICU](https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de) 996ICU代币信息（区块链浏览器）
 
-Issues区留下BSC地址进行空投。
+[Issues区留下BSC地址进行不定期空投]（https://github.com/githubmll/996.Publicity/issues/10)
