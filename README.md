@@ -40,7 +40,7 @@ pancakeswap链接：https://exchange.pancakeswap.finance/#/swap
 
 4. 其它支持BSC的钱包
 
-空投规则：数量不定期随机发
+空投规则：不定期空投
 
 如果想要帮助，请联系电报：@token996
 
