@@ -46,7 +46,7 @@ pancakeswap链接：https://exchange.pancakeswap.finance/#/swap
 
 3. MetaMask钱包 网络切换到 Binance Smart Chain Mainnet
 
-4. 其它支持BSC的钱包
+4. 其它支持BSC链的钱包
 
 空投规则：不定期空投
 
