@@ -37,3 +37,5 @@
 ## 空投确认地址（区块链浏览器）
 
 https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
+
+如果想要帮助，请联系电报：@token996
