@@ -8,7 +8,15 @@
 ## 996ICU Token
 996ICU Token是基于BSC公链构建的去中心化代币，旨在为996打工的同胞们记录加班费。
 
-996ICU Token合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
+名称：996ICU
+
+符号：996
+
+位数：18
+
+发行总量：996亿
+
+合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
 [Token 996ICU](https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de) 996ICU代币信息（区块链浏览器）
 
