@@ -39,3 +39,5 @@
 https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
 如果想要帮助，请联系电报：@token996
+
+点亮 Star（右上角小星星） 防止迷路
