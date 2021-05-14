@@ -29,7 +29,7 @@
 ## 上线去中心化交易所pancakeswap
 
 pancakeswap链接：https://exchange.pancakeswap.finance/#/swap
-![image](https://user-images.githubusercontent.com/17825339/118221153-a7a7ca80-b4af-11eb-87f1-752814a5f562.png)
+
 
 如果想要帮助，请联系电报：@token996
 
