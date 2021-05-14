@@ -33,7 +33,7 @@ pancakeswap链接：https://exchange.pancakeswap.finance/#/swap
 
 操作方法如图，用合约地址搜索代币，合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
-![image](https://user-images.githubusercontent.com/17825339/118221325-f9505500-b4af-11eb-9d93-593c41e6bf9f.png)
+![image](https://user-images.githubusercontent.com/17825339/118229327-65d25080-b4be-11eb-81f2-c193be529a72.png)
 
 如果想要帮助，请联系电报：@token996
 
