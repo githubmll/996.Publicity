@@ -9,7 +9,6 @@
 
 [Token 996ICU](https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de) 996ICU代币信息（区块链浏览器）
 
-
 点击：[Issues区留下BSC地址进行空投](https://github.com/githubmll/996.Publicity/issues/10) 
 
 代币合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
@@ -27,6 +26,8 @@
 空投规则：数量随机发
 
 ## 上线去中心化交易所pancakeswap
+
+0.001BNB/996=74.7778/996
 
 pancakeswap链接：https://exchange.pancakeswap.finance/#/swap
 
