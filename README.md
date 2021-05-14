@@ -26,17 +26,10 @@
 
 空投规则：数量随机发
 
-## 矿工费说明：
+## 上线去中心化交易所pancakeswap
 
-每个独立的BSC地址空投需要 0.000261BNB 矿工确认费，前50名楼主自掏腰包。
-
-感兴趣的工友，支付 0.01BNB 矿工费 根据支付地址进行空投（996996个起步）
-
-矿工费（BNB）接收地址：0x960BA7545FFD63Cc138517D844b9274D18B03622
-
-## 空投确认地址（区块链浏览器）
-
-https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
+pancakeswap链接：https://exchange.pancakeswap.finance/#/swap
+![image](https://user-images.githubusercontent.com/17825339/118221153-a7a7ca80-b4af-11eb-87f1-752814a5f562.png)
 
 如果想要帮助，请联系电报：@token996
 
