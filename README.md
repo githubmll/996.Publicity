@@ -24,13 +24,12 @@ BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd3
 
 注：流动性测试阶段
 
-打开如下链接可进行交易
+购买方式:Mdex(bsc链) https://bsc.mdex.com/#/swap
 
-pancakeswap链接：https://exchange.pancakeswap.finance/#/swap
+(⚠️ 建议价格滑点设置到 5-10%)
 
 操作方法如图，用合约地址搜索代币，合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
-
-![image](https://user-images.githubusercontent.com/17825339/118229327-65d25080-b4be-11eb-81f2-c193be529a72.png)
+![image](https://user-images.githubusercontent.com/17825339/118346733-0e8cb880-b570-11eb-95b4-cd03633356d3.png)
 
 ## 996ICU Token空投
 
