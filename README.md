@@ -49,6 +49,4 @@ BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd3
 
 空投规则：不定期空投
 
-如果想要帮助，请联系电报：@token996
-
 点亮 Star（右上角小星星）空投有惊喜 同时可 防止迷路。
