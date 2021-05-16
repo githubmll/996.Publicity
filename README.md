@@ -27,7 +27,7 @@ BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd3
 (⚠️ 建议价格滑点设置到 5-10%)
 
 操作方法如图，用合约地址搜索代币，合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
-![image](https://user-images.githubusercontent.com/17825339/118346733-0e8cb880-b570-11eb-95b4-cd03633356d3.png)
+![image](https://user-images.githubusercontent.com/17825339/118383597-e6658e00-b631-11eb-9bc8-840c3fba3622.png)
 
 ## 996ICU Token空投
 
