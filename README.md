@@ -20,7 +20,7 @@
 
 BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
-## 已上线去中心化交易所 PancakeSwap
+## 获取方式
 
 购买方式:Mdex(bsc链) https://bsc.mdex.com/#/swap
 
