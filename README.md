@@ -22,8 +22,6 @@ BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd3
 
 ## 已上线去中心化交易所 PancakeSwap
 
-注：流动性测试阶段
-
 购买方式:Mdex(bsc链) https://bsc.mdex.com/#/swap
 
 (⚠️ 建议价格滑点设置到 5-10%)
@@ -33,20 +31,12 @@ BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd3
 
 ## 996ICU Token空投
 
+领取方法：所有参与LP的地址，按照比例每日空投996ICU 1亿
+
+领取方法: 推广并截图，每日均分5000W
+
 点击：[Issues区留下BSC地址进行空投](https://github.com/githubmll/996.Publicity/issues/10) 
 
-代币合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
-
-通过合约地址添加代币，热门钱包如下
-
-1. TrustWallte钱包 Smart Chain
-
-2. TokenPocket钱包 BSC-1 币安智能链
-
-3. MetaMask钱包 网络切换到 Binance Smart Chain Mainnet
-
-4. 其它支持BSC链的钱包
-
-空投规则：不定期空投
+合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
 点亮 Star（右上角小星星）空投有惊喜 同时可 防止迷路。
