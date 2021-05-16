@@ -30,7 +30,7 @@ BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd3
 
 ![image](https://user-images.githubusercontent.com/17825339/118383597-e6658e00-b631-11eb-9bc8-840c3fba3622.png)
 
-## 996ICU Token空投
+## 996ICU Token空投（截止日期：2021年5月20日）
 
 领取方法：所有参与LP的地址，按照比例每日空投996ICU 1亿
 
