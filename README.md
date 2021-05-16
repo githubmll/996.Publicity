@@ -39,4 +39,6 @@ BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd3
 
 合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
-点亮 Star（右上角小星星）空投有惊喜 同时可 防止迷路。
+点亮 Star（右上角小星星）空投有惊喜 同时可 防止迷路
+
+欢迎加入。
