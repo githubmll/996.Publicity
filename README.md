@@ -34,12 +34,12 @@ BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd3
 
 领取方法：所有参与LP的地址，按照比例每日空投996ICU 1亿
 
-领取方法: 推广并截图，每日均分5000W
+领取方法: 邀请(Issues区留下被邀请人bsc 996链地址)每日均分5000W
 
 点击：[Issues区留下BSC地址进行空投](https://github.com/githubmll/996.Publicity/issues/10) 
 
 合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
-点亮 Star（右上角小星星）空投有惊喜 同时可 防止迷路
+点亮 Star（右上角小星星）优先空投且有惊喜 同时可 防止迷路
 
 欢迎加入。
