@@ -15,15 +15,8 @@
 BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
 ## 获取方式
+交换 $996! 在mdex.com上，点击“选择通证”并输入合同: 0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de 别忘了把你的滑点设为10%。
 
-购买方式:Mdex(bsc链) https://bsc.mdex.com/#/swap
+点击下面链接愉快的兑换吧
 
-(⚠️ 建议价格滑点设置到 5-10%)
-
-操作方法如图，用合约地址搜索代币，合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
-
-![image](https://user-images.githubusercontent.com/17825339/118383597-e6658e00-b631-11eb-9bc8-840c3fba3622.png)
-
-点亮 Star（右上角小星星）有惊喜 同时可 防止迷路
-
-欢迎加入。
+https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
