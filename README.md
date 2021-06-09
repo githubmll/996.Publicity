@@ -12,10 +12,9 @@
 
 合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
-BSC区块链浏览器：https://bscscan.com/token/0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
 ## 获取方式
-交换 $996! 在mdex.com上，点击“选择通证”并输入合同: 0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de 别忘了把你的滑点设为10%。
+交换 996! 在mdex.com上，点击“选择通证”并输入合同: 0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de 别忘了把你的滑点设为10%。
 
 点击下面链接愉快的兑换吧
 
