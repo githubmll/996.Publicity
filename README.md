@@ -18,6 +18,8 @@
 
 愉快的兑换吧
 
-浏览器兑换方式(MetaMask或其它插件钱包)https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
+浏览器兑换方式(MetaMask或其它插件钱包)操作方式：
 
-APP TokenPocket(TP)操作方式：发现-DApps-Mdex(bsc)即可兑换
+https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
+
+手机APP TokenPocket(TP)操作方式：发现-DApps-Mdex(bsc)- BNB/996 即可兑换
