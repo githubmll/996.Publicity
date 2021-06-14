@@ -16,6 +16,8 @@
 ## 获取方式
 交换 996! 在bsc.mdex.com上，点击“选择通证”并输入合同: 0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de 别忘了把你的滑点设为10%。
 
-或点击下面链接愉快的兑换吧
+愉快的兑换吧
 
-https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
+浏览器兑换方式(MetaMask或其它插件钱包)https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
+
+APP TokenPocket(TP)操作方式：发现-DApps-Mdex(bsc)即可兑换
