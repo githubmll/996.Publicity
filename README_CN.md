@@ -12,14 +12,11 @@
 
 合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
-
 ## 获取方式
-交换 996! 在bsc.mdex.com上，点击“选择通证”并输入合同: 0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de 别忘了把你的滑点设为10%。
+交换 996ICU! 在bsc.mdex.com上，点击“选择通证”并输入合同: 0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de 别忘了把你的滑点设为10%。
 
 愉快的兑换吧
 
-浏览器兑换方式(MetaMask或其它插件钱包)操作方式：
+[bsc.mdex.com兑换](https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de)
 
-https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
-
-手机APP TokenPocket(TP)操作方式：发现-DApps-Mdex(bsc)- BNB/996 即可兑换
+手机APP TokenPocket(TP)兑换：发现-DApps-Mdex(bsc)- BNB/996 即可兑换
