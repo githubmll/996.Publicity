@@ -22,3 +22,7 @@
 [bsc.mdex.com兑换](https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de)
 
 手机APP TokenPocket(TP)兑换：发现-DApps-Mdex(bsc)- BNB/996 即可兑换
+
+#### Telegram
+
+https://t.me/joinchat/H5VWoLIAkqdhNzdl
