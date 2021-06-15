@@ -27,7 +27,3 @@ Swap for $996ICU! On PancakeSwap,click ‘Select A Currency’ and enterthe cont
 [Happy Trading On Mdex](https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de)
 
 APP TokenPocket(TP) DApps-Mdex(bsc)-BNB/996
-
-#### Telegram
-
-https://t.me/joinchat/H5VWoLIAkqdhNzdl
