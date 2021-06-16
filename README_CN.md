@@ -15,10 +15,10 @@
 合约地址：0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de
 
 ## 获取方式
-交换 996ICU! 在bsc.mdex.com上，点击“选择通证”并输入合同: 0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de 别忘了把你的滑点设为10%。
+交换 996ICU! 在PancakeSwap(薄饼)上，点击“选择通证”并输入合同: 0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de 别忘了把你的滑点设为10%。
 
-愉快的兑换吧
+[Happy Trading On Mdex USDT/996](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de)
 
-[bsc.mdex.com兑换](https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de)
+APP TokenPocket(TP) DApps-PancakeSwap-USDT/996
 
-手机APP TokenPocket(TP)兑换：发现-DApps-Mdex(bsc)- BNB/996 即可兑换
+手机APP TokenPocket(TP)兑换：发现-DApps-PancakeSwap(薄饼)-  USDT/996 即可兑换
