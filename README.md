@@ -24,6 +24,6 @@ GO THE THE DAPPS TAB IN THE WALLET AND CLICK ON bsc.mdex.com ,MDEX IS AN DECENTR
 ### 04
 Swap for $996ICU! On PancakeSwap,click ‘Select A Currency’ and enterthe contract: 0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de Don't forget to set your slippage to 10%.
 
-[Happy Trading On Mdex](https://bsc.mdex.com/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de)
+[Happy Trading On Mdex USDT/996](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xbc61ddf92f9d5ebe8c0d1a52dbd38529f67a79de)
 
-APP TokenPocket(TP) DApps-Mdex(bsc)-BNB/996
+APP TokenPocket(TP) DApps-PancakeSwap-USDT/996
